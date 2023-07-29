@@ -2,7 +2,7 @@
 
 The Alarm Clock App is a simple GUI application built in Python using the Tkinter library. It allows users to set an alarm time, and when the alarm time is reached, it plays a sound to alert the user.
 
-![Alarm Clock App Screenshot](screenshot.png)
+![Alarm Clock App Screenshot](alarm-clock.png)
 
 ## Features
 
